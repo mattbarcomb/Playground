@@ -1,7 +1,7 @@
 class Foo
 
   def make_three()
-    2
+    3
   end
 
 end
